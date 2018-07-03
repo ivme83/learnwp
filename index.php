@@ -32,7 +32,7 @@
                                 <p>Tags: <?php the_tags( 'Tags: ', ', ' ); ?></p>
                                 <p><?php the_content(); ?></p>
                             </article>
-
+                            
                             <?php
                                 endwhile;
                                 else:
